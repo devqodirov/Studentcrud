@@ -1,0 +1,2 @@
+# Studentcrud
+laravelda student crud
